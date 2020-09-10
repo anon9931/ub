@@ -7,8 +7,3 @@ click **[SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://raw.gith
 
 
 <dialog>https://github.com/anon9931/ub/raw/master/filter.txt</dialog>
-```cpp
-if (window.confirm("Do you really want to leave?")) { 
-  window.open("exit.html", "Thanks for Visiting!");
-}
-```
