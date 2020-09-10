@@ -7,3 +7,10 @@ click **[SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://raw.gith
 
 
 <dialog>https://github.com/anon9931/ub/raw/master/filter.txt</dialog>
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
