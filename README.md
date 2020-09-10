@@ -9,4 +9,4 @@ click **[SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://raw.gith
 click **[sub](abp:subscribe?location=https://github.com/anon9931/ub/raw/master/filter.txt)**
 
 **Filter list installation:**
-click **[SUBSCRIBE](https://subscribe?location=https://raw.githubusercontent.com/anon9931/ub/master/filter.txt&title=Filters%20by%20anon9931)** or use direct link:<br>
+click **[SUBSCRIBE](https://subscribe?=https://raw.githubusercontent.com/anon9931/ub/master/filter.txt&title=Filters%20by%20anon9931)** or use direct link:<br>
